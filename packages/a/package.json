@@ -2,8 +2,17 @@
   "name": "a",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "prepublish": "echo 'A prepublish'",
+    "prepare": "echo 'A prepare'",
+    "prepublishOnly": "echo 'A prepublishOnly'",
+    "prepack": "echo 'A prepack'",
+    "postpack": "echo 'A postpack'",
+    "publish": "echo 'A publish'",
+    "postpublish": "echo 'A postpublish'"
+  },
   "license": "MIT",
   "dependencies": {
-    "a": "1.0.0"
+    "b": "^1.0.0"
   }
 }
