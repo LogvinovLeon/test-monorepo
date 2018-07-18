@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "prepublish": "echo 'A prepublish'",
     "prepare": "echo 'A prepare'",
     "prepublishOnly": "echo 'A prepublishOnly'",
     "prepack": "echo 'A prepack'",
