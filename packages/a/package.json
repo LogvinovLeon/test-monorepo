@@ -1,8 +1,8 @@
 {
   "name": "usivbrgnm",
-  "version": "1.0.1-rc.2",
+  "version": "1.0.1-rc.3",
   "main": "index.js",
   "scripts": {},
   "license": "MIT",
-  "gitHead": "5460dd5d62a9e39fa07a3728f72f06e36c9a55f6"
+  "gitHead": "cd0bb43287ccf04aae7ac9acec62421fe3c3611b"
 }
