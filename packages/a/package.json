@@ -1,17 +1,7 @@
 {
-  "name": "a",
+  "name": "usivbrgnm",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "prepare": "echo 'A prepare'",
-    "prepublishOnly": "echo 'A prepublishOnly'",
-    "prepack": "echo 'A prepack'",
-    "postpack": "echo 'A postpack'",
-    "publish": "echo 'A publish'",
-    "postpublish": "echo 'A postpublish'"
-  },
-  "license": "MIT",
-  "dependencies": {
-    "b": "^1.0.0"
-  }
+  "scripts": {},
+  "license": "MIT"
 }
